@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+img{
+  width: 200px;
+  height: 200px;
+}
+
+.beasts{
+  /* width: 50%; */
+  /* margin: 0 auto; */
+  border: 1px solid black;
+  /* text-align: center; */
+}
+
+h1, .footer{
+  text-align: center;
+}
